@@ -1,0 +1,14 @@
+{
+  "name": "myworld",
+  "version": "1.0.0",
+  "description": "This is my world example using cordova plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "myworld"
+  ],
+  "author": "Anusha R",
+  "license": "ISC"
+}
